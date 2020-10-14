@@ -1,0 +1,1 @@
+cd HelloWorldFunction && aws lambda update-function-code --function-name lambda-function-created-by-AWSCLI --zip-file fileb://./target/HelloWorld-1.0.jar
